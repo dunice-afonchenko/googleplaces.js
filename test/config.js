@@ -1,2 +1,2 @@
-exports.apiKey = "your google api key (server) comes here";
+exports.apiKey = "AIzaSyDuDuJMT7TINlRl0R3G6SsP8EZOyKubFoY";
 exports.outputFormat = "json";
